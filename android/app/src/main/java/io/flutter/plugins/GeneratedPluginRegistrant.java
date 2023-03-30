@@ -1,6 +1,7 @@
 package io.flutter.plugins;
 
 import io.flutter.plugin.common.PluginRegistry;
+import finaldev.motion_sensors.MotionSensorsPlugin;
 
 /**
  * Generated file. Do not edit.
@@ -10,6 +11,7 @@ public final class GeneratedPluginRegistrant {
     if (alreadyRegisteredWith(registry)) {
       return;
     }
+    MotionSensorsPlugin.registerWith(registry.registrarFor("finaldev.motion_sensors.MotionSensorsPlugin"));
   }
 
   private static boolean alreadyRegisteredWith(PluginRegistry registry) {
