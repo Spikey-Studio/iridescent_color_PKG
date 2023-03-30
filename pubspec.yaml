@@ -1,7 +1,7 @@
 name: iridescent_color
 description: Flutter package for exempting iridescent effect as color.
 version: 1.0.0
-homepage: https://spikeystudio.com/flutter/PKGs/iridescent_color_PKG
+# homepage: https://spikeystudio.com/flutter/PKGs/iridescent_color_PKG
 repository: https://github.com/Spikey-Studio/iridescent_color_PKG
 
 environment:
