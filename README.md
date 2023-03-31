@@ -1,4 +1,5 @@
-# iridescent_color 
+# iridescent_color
+
 is a package that uses device movements to calculate a change of customizable colors.
 
 ## ⭐ Features
@@ -58,7 +59,7 @@ void initState() {
     ),
   );
 }
-  
+
 /// In dispose
 @override
 void dispose() {
