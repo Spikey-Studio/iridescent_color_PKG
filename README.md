@@ -1,6 +1,6 @@
 # iridescent_color
 
-is a package that uses device movements to calculate a change of customizable colors.
+Is a package that uses device movements to calculate a change of customizable colors for <a href="https://pub.dev/packages/iridescent_color" target="_blank">flutter</a>.
 
 ## ⭐ Features
 
